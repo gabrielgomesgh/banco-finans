@@ -1,2 +1,2 @@
 # banco-finans
- Projeto do banco Finans
+ Esse projeto é um clone do site: Banco Finans
