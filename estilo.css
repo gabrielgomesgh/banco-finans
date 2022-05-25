@@ -1,0 +1,22 @@
+.nav-link:hover{
+    background-color: rgb(247, 229, 202);
+}
+#home{
+    background-color: #ffc107;
+    color: white;
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+.slide{
+    padding: 60px 0px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a{
+    margin: 5px 15px;
+}
+
+div.col-md-4 a{
+    margin-left: 10px;
+}
